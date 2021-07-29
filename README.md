@@ -46,7 +46,6 @@ Computer Vision, Artificial Interlligence, Machine Learning, Object Detection, R
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git&nbsp;LFS-F64935?style=flat-square&logo=Git-LFS&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp
